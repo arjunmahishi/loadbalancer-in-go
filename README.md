@@ -2,6 +2,11 @@
 
 Building a loadbalancer from scratch. DO NOT use this in production :P (just in case)
 
+This repo accompanies a 2 part video series on YouTube:
+
+- Part 1: [Building a LoadBalancer in Go](https://youtu.be/4i7_5NE6tlM)
+- Part 2: [Building Health Check functionality for a LoadBalancer (coming soon)]()
+
 ## Running it
 
 Start multiple instances of `server.py`
