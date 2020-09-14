@@ -5,7 +5,7 @@ Building a loadbalancer from scratch. DO NOT use this in production :P (just in 
 This repo accompanies a 2 part video series on YouTube:
 
 - Part 1: [Building a LoadBalancer in Go](https://youtu.be/4i7_5NE6tlM)
-- Part 2: [Building Health Check functionality for a LoadBalancer (coming soon)]()
+- Part 2: [Building Health Check functionality for a LoadBalancer (coming soon)](https://youtu.be/r9mcmZEhD9Q)
 
 ## Running it
 
